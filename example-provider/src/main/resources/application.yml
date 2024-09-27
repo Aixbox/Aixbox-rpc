@@ -1,0 +1,9 @@
+rpc:
+  name: rpc
+  version: 2.0
+  serverPort: 8083
+  mock: false
+  serializer: json
+  registryConfig:
+    registry: etcd
+    address: http://localhost:2379

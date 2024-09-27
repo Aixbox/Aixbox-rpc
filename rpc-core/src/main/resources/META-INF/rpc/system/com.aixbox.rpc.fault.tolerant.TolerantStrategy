@@ -1,0 +1,4 @@
+failBack=com.aixbox.rpc.fault.tolerant.FailBackTolerantStrategy
+failFast=com.aixbox.rpc.fault.tolerant.FailFastTolerantStrategy
+failOver=com.aixbox.rpc.fault.tolerant.FailOverTolerantStrategy
+failSafe=com.aixbox.rpc.fault.tolerant.FailSafeTolerantStrategy
