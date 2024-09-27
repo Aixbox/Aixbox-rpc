@@ -131,10 +131,17 @@ public class ExampleServiceFallbackImpl implements UserService {
 
 # 模块说明
 rpc-easy: 简易rpc
+
 example-common: 公共模块，消费方和服务方共有的类
+
 example-consumer: 简易rpc的消费方
+
 example-provider: 简易rpc的服务方
+
 rpc-core: rpc框架核心
+
 rpc-spring-boot-starter: rpc框架的springboot starter
+
 example-springboot-consumer: rpc-spring-boot-starter的消费方
+
 example-springboot-provider: rpc-spring-boot-starter的服务方
