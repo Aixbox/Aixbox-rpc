@@ -1,0 +1,4 @@
+jdk=com.aixbox.rpc.serializer.JdkSerializer
+json=com.aixbox.rpc.serializer.JsonSerializer
+hessian=com.aixbox.rpc.serializer.HessianSerializer
+kryo=com.aixbox.rpc.serializer.KryoSerializer

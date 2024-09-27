@@ -1,0 +1,2 @@
+no=com.aixbox.rpc.fault.retry.NoRetryStrategy
+fixedInterval=com.aixbox.rpc.fault.retry.FixedIntervalRetryStrategy
